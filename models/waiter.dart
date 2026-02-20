@@ -1,3 +1,3 @@
-abstract class Waiter{
-    
+class Waiter{
+
 }
